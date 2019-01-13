@@ -1,0 +1,12 @@
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\bin\Debug\Puhelin.exe.config
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\bin\Debug\Puhelin.exe
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\bin\Debug\Puhelin.pdb
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.csprojResolveAssemblyReference.cache
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.Properties.Resources.resources
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.csproj.GenerateResource.Cache
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.exe
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.pdb
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.Puhelin.resources
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.Login.resources
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.Doctor.resources
+C:\Users\s1600072\Documents\Visual Studio 2013\Projects\Telephone\Puhelin\Puhelin\obj\Debug\Puhelin.Search.resources
